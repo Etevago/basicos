@@ -28,7 +28,4 @@ System.err.println("Valor doble");
 System.out.println(doble);
 }
 
-public static void main (Sring args[]){
-numericos();
-}
 }
