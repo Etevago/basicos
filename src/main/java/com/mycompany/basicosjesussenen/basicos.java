@@ -12,4 +12,18 @@ package com.mycompany.basicosjesussenen;
  */
 public class basicos {
 
+public static String logicos(){
+String comparacion=null;
+
+if (numericos.entero>numericos.doble){
+comparacion "El numero entero es mayor que el double"
+}
+if (numericos.entero<numericos.doble){
+comparacion "El numero double es mayor que el entero"}
+
+if (numericos.entero.equals(numerico.doble)){
+comparacion "Los dos son iguales"
+}
+
+}
 }
