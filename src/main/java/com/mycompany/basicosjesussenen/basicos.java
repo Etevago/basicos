@@ -12,4 +12,11 @@ package com.mycompany.basicosjesussenen;
  */
 public class basicos {
 
+public static void Cadenas(){
+numericos();
+}
+
+public static void main (String args[]){
+Cadenas();
+}
 }
